@@ -4,7 +4,7 @@
 This project provides an interactive visual analysis of Netflix's TV shows and movies dataset using Tableau. The goal is to explore patterns, trends, and distributions within the Netflix content library to gain insights on genres, ratings, ratio (of movie and tv shows), country distributions, and release trends.
 
 ### Tools Used
-- Tableau — for building interactive dashboards and visualizations
+- Tableau: mfor building interactive dashboards and visualizations
 - MS Excel: Netflix Dataset
 
 ### Key Visualizations
